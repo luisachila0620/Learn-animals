@@ -15,6 +15,11 @@ export function Home() {
 				/>
 				<div className="card-img-overlay">
 					<h5 className="card-title">LEARN ANIMALS</h5>
+					<p className="intro-text">
+						Take a look at some of the most awsome animal and what
+						makes them unique at the same time that you learn about
+						the 8.7 million species of animals.
+					</p>
 				</div>
 			</div>
 		</div>
