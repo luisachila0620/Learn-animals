@@ -9,7 +9,7 @@ export function Home() {
 		<div>
 			<div className="card bg-dark text-white">
 				<img
-					src="https://cowboystatedaily.com/wp-content/uploads/2020/01/wolf-scaled.jpg"
+					src="https://www.ppt-backgrounds.net/thumbs/green-frog-animal--animals-green--ppt-template-ppt.jpeg"
 					className="card-img"
 					alt="..."
 				/>
@@ -20,6 +20,9 @@ export function Home() {
 						makes them unique at the same time that you learn about
 						the 8.7 million species of animals.
 					</p>
+					<button type="button" className="boton1">
+						Begin Here
+					</button>
 				</div>
 			</div>
 		</div>

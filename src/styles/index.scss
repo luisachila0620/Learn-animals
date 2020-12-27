@@ -1,14 +1,22 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
 .card-title{
-    color: rgb(18, 219, 18);
+    color: red;
     text-align: center;
     font-size: 100px;
-    bottom: 30px;
+    margin-bottom: 30px;
     
 }
 .intro-text{
-    color: yellow;
+    color: black;
     font-size: 45px;
     bottom: 100px;
+    margin-right: 400px;
+}
+.boton1{
+    background-color: red;
+    font-size: 35px;
+    color: white;
+    border-radius: 15px;
+    bottom: 50%;
 }

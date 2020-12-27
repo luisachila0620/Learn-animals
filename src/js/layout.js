@@ -4,6 +4,7 @@ import ScrollToTop from "./component/scrollToTop";
 
 import { Home } from "./views/home";
 import {contnte} from "./view/content";
+import {Navbar} from "./component/navbar";
 
 //create your first component
 export const Layout = () => {
