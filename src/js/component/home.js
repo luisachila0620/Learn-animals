@@ -34,15 +34,12 @@ export function Home() {
 					/>
 					<div className="card-body">
 						<h5 className="card-title" />
-						<p className="card-text">
-							This is a wider card with supporting text below as a
-							natural lead-in to additional content. This content
-							is a little bit longer.
+						<p className="lion">
+							Learn and discover every animal and what makes them
+							unique.
 						</p>
 						<p className="card-text">
-							<small className="text-muted">
-								Last updated 3 mins ago
-							</small>
+							<small className="text-muted" />
 						</p>
 					</div>
 				</div>
@@ -53,9 +50,8 @@ export function Home() {
 						alt="monkey"
 					/>
 					<div className="card-body">
-						<p className="card-text">
-							This card has supporting text below as a natural
-							lead-in to additional content.
+						<p className="monkey">
+							All animal species and how they survive.
 						</p>
 						<p className="card-text">
 							<small className="text-muted" />
@@ -69,16 +65,11 @@ export function Home() {
 						alt="cat"
 					/>
 					<div className="card-body">
-						<p className="card-text">
-							This is a wider card with supporting text below as a
-							natural lead-in to additional content. This card has
-							even longer content than the first to show that
-							equal height action.
+						<p className="cat">
+							Domestic and wild they are all unique.
 						</p>
 						<p className="card-text">
-							<small className="text-muted">
-								Last updated 3 mins ago
-							</small>
+							<small className="text-muted" />
 						</p>
 					</div>
 				</div>
