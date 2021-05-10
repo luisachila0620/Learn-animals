@@ -6,10 +6,11 @@ export const Navbar = () => {
 		<nav className="navbar navbar-light bg-light">
 			<div className="ml-auto">
 				
-					<span className="entry-button">Welcom</span>
+					<span className="entry-button">welcome</span>
 				
 				
-					<button className="contactanos">Start</button>
+					<button className="contactanos">information</button>
+                    
 				
 				
 				
