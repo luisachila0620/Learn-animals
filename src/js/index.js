@@ -12,7 +12,7 @@ import "../styles/index.scss";
 import { Home } from "./component/home.js";
 
 //include your layout components
-import { layout } from "./component/layout.js";
+// import { layout } from "./component/layout.js";
 
 //render your react application
 ReactDOM.render(<Home />, document.querySelector("#app"));

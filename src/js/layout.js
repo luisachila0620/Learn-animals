@@ -20,7 +20,7 @@ export const Layout = () => {
 				<Switch>
 					
 					<Route exact path="/home" component={Home} />d
-                    <Route exact path="/content" component={content} />d
+                    
 					
 					{/* <Route
 							render={() => (
