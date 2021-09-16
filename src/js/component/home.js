@@ -77,6 +77,10 @@ export function Home() {
 					</div>
 				</div>
 			</div>
+			<div>
+				<input type="text" placeholder="Search here.." />
+				<input type="text" placeholder="Search here.." />
+			</div>
 		</div>
 	);
 }
