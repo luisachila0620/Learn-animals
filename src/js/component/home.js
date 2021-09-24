@@ -27,7 +27,7 @@ export function Home() {
 			</div>
 			<div className="card-group">
 				<div className="card">
-					<h1 className="predators">PREDATORS</h1>
+					<h1 className="predators">CARNIVOROUS</h1>
 					<img
 						src="https://api.time.com/wp-content/uploads/2018/12/lion-conservators-center.jpg"
 						className="card-img-top"
@@ -45,7 +45,7 @@ export function Home() {
 					</div>
 				</div>
 				<div className="card">
-					<h1 className="herbibors">Herbibors</h1>
+					<h1 className="herbibors">HERBIVORES</h1>
 					<img
 						src="https://www.tripsavvy.com/thmb/78vQWAIMMGqLzr8cZrXrQRuvOAI=/2121x1414/filters:fill(auto,1)/GettyImages-546915010-59da7322af5d3a0010234e2e.jpg"
 						className="card-img-top"
@@ -61,7 +61,7 @@ export function Home() {
 					</div>
 				</div>
 				<div className="card">
-					<h1 className="domestics">Domestics</h1>
+					<h1 className="domestics">DOMESTIC</h1>
 					<img
 						src="https://www.aristokatzvet.com/wp-content/uploads/2018/12/iStock-875599324.jpg"
 						className="card-img-top"
@@ -77,7 +77,10 @@ export function Home() {
 					</div>
 				</div>
 			</div>
-			<div>
+			<div className="bars">
+				<p>
+					<h2>for more information type in the seach bar.</h2>
+				</p>
 				<input type="text" placeholder="Search here.." />
 				<input type="text" placeholder="Search here.." />
 			</div>
