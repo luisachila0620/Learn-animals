@@ -34,7 +34,6 @@ export function Home() {
 						alt="lion"
 					/>
 					<div className="card-body">
-						<h5 className="card-title" />
 						<p className="lion">
 							Learn and discover every animal and what makes them
 							unique.
