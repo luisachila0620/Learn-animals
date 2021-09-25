@@ -3,7 +3,7 @@ import { BrowserRouter, Route, Switch } from "react-router-dom";
 import ScrollToTop from "./component/scrollToTop";
 
 import { Home } from "./views/home";
-import {Navbar} from "./component/navbar";
+import {Navbar} from "./views/navbar";
 
 
 //create your first component
@@ -20,6 +20,7 @@ export const Layout = () => {
 				<Switch>
 					
 					<Route exact path="/home" component={Home} />d
+					<Route exact path= "/home" component={Navbar}/>d
 					
                     
 					
