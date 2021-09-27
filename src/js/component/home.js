@@ -81,7 +81,6 @@ export function Home() {
 					<h2>for more information type in the seach bar.</h2>
 				</p>
 				<input type="text" placeholder="Search here.." />
-				<input type="text" placeholder="Search here.." />
 			</div>
 		</div>
 	);
