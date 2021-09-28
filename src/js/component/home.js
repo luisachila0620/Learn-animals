@@ -46,12 +46,12 @@ export function Home() {
 				<div className="card">
 					<h1 className="herbibors">HERBIVORES</h1>
 					<img
-						src="https://www.tripsavvy.com/thmb/78vQWAIMMGqLzr8cZrXrQRuvOAI=/2121x1414/filters:fill(auto,1)/GettyImages-546915010-59da7322af5d3a0010234e2e.jpg"
+						src="https://megaricos.com/wp-content/uploads/2019/02/Horison-1.jpg"
 						className="card-img-top"
-						alt="monkey"
+						alt="bufalo"
 					/>
 					<div className="card-body">
-						<p className="monkey">
+						<p className="bufalo">
 							All animal species and how they survive.
 						</p>
 						<p className="card-text">
@@ -76,12 +76,16 @@ export function Home() {
 					</div>
 				</div>
 			</div>
-			<div className="bars">
-				<p>
-					<h2>for more information type in the seach bar.</h2>
-				</p>
-				<input type="text" placeholder="Search here.." />
-			</div>
+			<div className="bars" />
+			<table>
+				<tr>
+					<td>Nombre</td>
+					<td>Correo electronico</td>
+				</tr>
+				<tr>
+					<td>ello my name</td>
+				</tr>
+			</table>
 		</div>
 	);
 }
