@@ -25,6 +25,14 @@ export function Home() {
 					Begin Here
 				</button>
 			</div>
+			<div className="segundop">
+				<h1 className="segundot">Diviertete mientras aprendes!</h1>
+				<p id="info">
+					Descubre sobre la variedad de animales terrestres,aereos y
+					acuaticos que conforman el reino animal, entre otros!.
+				</p>
+				<button className="descubrem">Descubre mas aqui</button>
+			</div>
 			<div className="card-group">
 				<div className="card">
 					<h1 className="predators">CARNIVOROUS</h1>
@@ -76,16 +84,6 @@ export function Home() {
 					</div>
 				</div>
 			</div>
-			<div className="bars" />
-			<table>
-				<tr>
-					<td>Nombre</td>
-					<td>Correo electronico</td>
-				</tr>
-				<tr>
-					<td>ello my name</td>
-				</tr>
-			</table>
 		</div>
 	);
 }
