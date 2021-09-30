@@ -26,12 +26,11 @@ export function Home() {
 				</button>
 			</div>
 			<div className="segundop">
-				<h1 className="segundot">Diviertete mientras aprendes!</h1>
+				<h1 className="segundot">Have fun while you lear!</h1>
 				<p id="info">
-					Descubre sobre la variedad de animales terrestres,aereos y
-					acuaticos que conforman el reino animal, entre otros!.
+					Learn about every animal from the sea to the land and sky,
+					and how they make up the animal kingdom!.
 				</p>
-				<button className="descubrem">Descubre mas aqui</button>
 			</div>
 			<div className="card-group">
 				<div className="card">

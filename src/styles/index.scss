@@ -57,14 +57,25 @@
  background-color: black;
 }    
 .segundop{
-    width: 115px;
-    margin-left: 200px;
+    background-image: url("https://thumbs.dreamstime.com/b/frontera-incons%C3%BAtil-con-el-%C3%A1rbol-tropical-tal-como-animales-de-la-palma-del-pl%C3%A1tano-y-selva-vector-143231695.jpg");
+    // width: 115px;
+    height: 550px;
+
 }
 .segundot{
-    color: red;
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+
 }
 #info{
-    color: red;
+    color: rgb(255, 255, 255);
+    font-size: 45px;
+    font-family: cursive;
+    position: relative;
+    top: 100px;
+    margin-left: 80px;
 }
 
 
