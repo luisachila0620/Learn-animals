@@ -27,31 +27,37 @@
 .lion{
     font-size: 47px;
     color:white;;
+    font-family: cursive;
     // background-color: rgb(226, 226, 102);
    
 }
 .bufalo{
     font-size: 55px;
     color: white;
+    font-family: cursive;
 
     
 }
 .cat{
     font-size: 50px;
     color: white;
+    font-family: cursive;
 
 }
 .predators{
     margin: auto;
     color: white;
+    font-family: cursive;
 }
 .herbibors{
     margin: auto;
     color: white;
+    font-family: cursive;
 }
 .domestics{
     margin: auto;
     color: white;
+    font-family: cursive;
 }
 .card{
  background-color: black;
@@ -76,6 +82,17 @@
     position: relative;
     top: 100px;
     margin-left: 80px;
+}
+.anchor{
+    text-align: center;
+    font-size: medium;
+}
+.linelink{
+    text-align: center;
+}
+.a{
+    color:red;
+    font-size: 30px;
 }
 
 

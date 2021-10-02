@@ -83,6 +83,14 @@ export function Home() {
 					</div>
 				</div>
 			</div>
+			<div className="anchor">
+				<h1 className="linelink">
+					for mor information about animals click here
+				</h1>
+				<a className="a" href="https://en.wikipedia.org/wiki/Animal">
+					Click here to learn more!
+				</a>
+			</div>
 		</div>
 	);
 }
