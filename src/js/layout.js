@@ -4,7 +4,7 @@ import ScrollToTop from "./component/scrollToTop";
 
 import { Home } from "./views/home";
 import {Navbar} from "./component/navbar";
-import {contenido} from ".views/contenido";
+import {contenido} from "/.views/contenido";
 
 
 //create your first component
@@ -20,7 +20,7 @@ export const Layout = () => {
 				<Navbar />
 				<Switch>
 					
-					<Route exact path="/home" component={home} />d
+					<Route exact path="/Home" component={Home} />d
 					<Route exact path="/contenido" component={contenido} />d
 
 					<Route path="/" component={home} />

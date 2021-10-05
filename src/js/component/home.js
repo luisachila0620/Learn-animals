@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 
 //include images into your bundle
 // import rigoImage from "../../img/rigo-baby.jpg";
@@ -26,7 +26,7 @@ export function Home() {
 				</button>
 			</div>
 			<div className="segundop">
-				<h1 className="segundot">Have fun while you lear!</h1>
+				<h1 className="segundot">Have fun while you learn!</h1>
 				<p id="info">
 					Learn about every animal from the sea to the land and sky,
 					and how they make up the animal kingdom!.
